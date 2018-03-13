@@ -1,0 +1,8 @@
+# working files
+*.dem
+*.json
+*.csv
+
+# classifier saves
+*.pickle
+

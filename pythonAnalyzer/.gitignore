@@ -1,0 +1,9 @@
+# python virtualenv directories
+bin/
+lib/
+etc/
+include/
+share/
+__pycache__/
+.ipynb_checkpoints/
+
